@@ -1,0 +1,7 @@
+{
+    "name": "Flame Proxy",
+    "description": "Ultraviolet proxy ultiziing Ultraviolet and bare-server",
+    "repository": "#",
+    "logo": "#",
+    "keywords": ["node", "Flame", "ultraviolet", "bare-server"]
+  }
